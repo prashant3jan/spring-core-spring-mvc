@@ -2,7 +2,6 @@ package guru.springframework.services;
 
 import guru.springframework.commands.CustomerForm;
 import guru.springframework.repositories.CustomerRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
